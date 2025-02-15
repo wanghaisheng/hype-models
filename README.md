@@ -1,3 +1,10 @@
+monitor keyword hype
+
+
+add  keyword support
+
+add star/like/run count history support
+
 # AI Hype
 
 https://hype.replicate.dev
